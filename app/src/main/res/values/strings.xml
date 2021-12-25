@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Viewample</string>
+    <string name="app_name">ViewSample</string>
+    <string name="tv_msg">画面部品サンプル</string>
+    <string name="bt_save">保存</string>
 </resources>
